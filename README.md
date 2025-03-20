@@ -42,7 +42,7 @@ If our work is helpful to you, please cite:
   pages={1276-1280},  
   doi={10.1109/BIBM52615.2021.9669358}}
   ```
-  
+   
 Recently, another manuscript has published in Knowledge-Based System, which provides ablation experiments and computation complexity analysis. -->
 ```html
 @article{chen2022toward,
